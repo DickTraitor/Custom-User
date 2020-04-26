@@ -1,0 +1,3 @@
+# Custom-User
+This is a custom user build in django .It is purely made from the https://docs.djangoproject.com/en/3.0/
+ This model takes account number and password as default way to login rather than default django user.....
